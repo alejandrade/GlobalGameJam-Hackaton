@@ -1,0 +1,33 @@
+
+plataforms.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+concretePlatBottom-0
+  rotate: false
+  xy: 1, 69
+  size: 721, 30
+  orig: 721, 30
+  offset: 0, 0
+  index: -1
+concretePlatTop-0
+  rotate: false
+  xy: 1, 37
+  size: 577, 30
+  orig: 577, 30
+  offset: 0, 0
+  index: -1
+platformMiddle-0
+  rotate: false
+  xy: 1, 5
+  size: 337, 30
+  orig: 337, 30
+  offset: 0, 0
+  index: -1
+movingPlatform-0
+  rotate: false
+  xy: 340, 1
+  size: 321, 34
+  orig: 321, 34
+  offset: 0, 0
+  index: -1
